@@ -5,5 +5,4 @@
 # Default entries from 
 
 https://raw.githubusercontent.com/damengzhu/banad/main/hosts.txt
-
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
