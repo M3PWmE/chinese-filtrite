@@ -61,7 +61,7 @@ echo "::endgroup::"
 # If the default list file exists, we overwrite it with the actual official list
 if [[ -f "lists/bromite-default.txt" ]]; then
     echo "::group::Downloading official list"
-    wget -O "lists/bromite-default.txt" "https://raw.githubusercontent.com/bromite/filters/master/lists.txt"
+    wget -O "lists/bromite-default.txt" "https://https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
     echo "::endgroup::"
 fi
 
